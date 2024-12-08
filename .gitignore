@@ -1,3 +1,4 @@
 /testenv
 /beats
 /ffmpeg
+.gitignore
