@@ -1,6 +1,3 @@
-
----
-
 # 🎬 YouTube Downloader with yt-dlp
 
 A simple and user-friendly Python script to download videos or audio files from YouTube, including playlist support. You can choose to download either the video or audio from a YouTube playlist or single video URL, and customize the quality of the download.
@@ -103,5 +100,3 @@ What audio quality do you want? (best, 192k, 128k, etc., default is best):
 - **Output Template**: The file names follow the format `%title%-%id%.%(ext)s`. You can modify this in the `outtmpl` field if you want to change how the files are named.
 - **Video Quality**: Modify the `quality` parameter to change the video quality (`best`, `worst`, or a specific resolution like `1080p`, `720p`).
 - **Audio Quality**: Modify the `preferredquality` parameter to change the audio quality (`best`, `192k`, `128k`, etc.).
-
----
